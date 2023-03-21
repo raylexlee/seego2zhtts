@@ -1,17 +1,16 @@
 {
-  "name": "wspa",
+  "name": "seego2zhtts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "getbwsk.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chrome-launcher": "^0.13.4",
-    "chrome-remote-interface": "^0.30.0",
-    "moment": "^2.29.1"
+    "chrome-launcher": "^0.15.1",
+    "chrome-remote-interface": "^0.32.1",
+    "moment": "^2.29.4"
   }
 }
