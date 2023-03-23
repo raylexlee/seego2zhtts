@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 BOOK=${1?"missing name of book..."}
-cd $HOME/seego2zhtts/sigao/text/$BOOK
+cd $HOME/raylexlee.github.io/sigao/text/$BOOK
 for i in $(ls -b [0-9]*)
 do
 CHAPTER=$(echo $i | tr -d .tx)
